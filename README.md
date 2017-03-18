@@ -1,6 +1,6 @@
 Email Verifier App - Form Validation API
 =========
-Intros, walkthroughs, how-tos, demos, and docs for the Email Verifier API - <strong>cURL Code</strong>. More details can be found on our website - www.emailverifierapp.com including information on our innovative 12 stage email verification process. 
+Intros, walkthroughs, how-tos, demos, and docs for the Email Verifier API - <strong>Objective-C Code</strong>. More details can be found on our website - www.emailverifierapp.com including information on our innovative 12 stage email verification process. 
 
 Getting Started with Email Verifier
 --------------------------------
